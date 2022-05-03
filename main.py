@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 data = pandas.read_csv('Price.csv')
-
+ 
 print("\nWelcome To Predict US Dollar In Indian Rupees\n\n")
 model = LinearRegression()
 model.fit(data[['year']], data[['price']])

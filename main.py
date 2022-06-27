@@ -1,3 +1,8 @@
+#Price Pridication Using Linear Regression
+#Author: Vaibhav Nalawade
+#GitHUb: https://github.com/vaibhavnalawade7/
+#Instagram: https://www.instagram.com/vaibhavnalawade7/
+
 from pyexpat import model
 import pandas
 import matplotlib.pyplot as plt
@@ -16,6 +21,7 @@ plt.scatter(data['year'], data['price'])
 plt.show()
 # print('''
 #     Predict USD To INR Price\n''')
+
 
 # y = input("Enter Y To Start\n")
 # n = 1

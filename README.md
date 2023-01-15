@@ -10,7 +10,7 @@ This code predicts the price of a specific currency using linear regression algo
 
 2. Clone the repository or download the code as a zip file.
 
-3. Run the code using the command: python3 price_prediction.py
+3. Run the code using the command: python3 main.py
 
 4. The code will prompt you to enter the year for which you want to predict the price. 
 

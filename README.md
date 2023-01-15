@@ -1,4 +1,4 @@
-# Price Prediction Using Linear Regression
+# Currency Price Prediction Using Linear Regression
 
 ## Description
 
